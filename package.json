@@ -8,7 +8,8 @@
     "port": 8086
   },
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "engines": {
     "node": ">=8.9.4",
@@ -16,8 +17,10 @@
   },
   "dependencies": {
     "express": "4.15.4",
-    "pug": "2.0.0-rc.4",
-    "query-string": "5.0.1"
+    "pug": "2.0.0-rc.4"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.9"
   },
   "author": "Dino Tech",
   "license": "ISC",

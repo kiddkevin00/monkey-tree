@@ -1,9 +1,6 @@
 const packageJson = require('./package.json');
-const queryString = require('query-string');
 const express = require('express');
-const fs = require('fs');
 const path = require('path');
-
 
 const app = express();
 
