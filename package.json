@@ -1,0 +1,29 @@
+{
+  "name": "dino-tech",
+  "version": "0.0.1",
+  "description": "A portfolio website for Dino Tech.",
+  "main": "./app.js",
+  "config": {
+    "ip": "0.0.0.0",
+    "port": 8086
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=8.9.4",
+    "npm": ">=5.6.0"
+  },
+  "dependencies": {
+    "express": "4.15.4",
+    "pug": "2.0.0-rc.4",
+    "query-string": "5.0.1"
+  },
+  "author": "Dino Tech",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kiddkevin00/dino-tech.git"
+  },
+  "private": true
+}
