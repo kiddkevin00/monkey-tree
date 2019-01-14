@@ -1,7 +1,7 @@
 {
-  "name": "dino-tech",
+  "name": "monkey-tree",
   "version": "0.0.1",
-  "description": "A portfolio website for Dino Tech.",
+  "description": "A portfolio website for Monkey Tree Technology.",
   "main": "./app.js",
   "config": {
     "ip": "0.0.0.0",
@@ -22,11 +22,11 @@
   "devDependencies": {
     "nodemon": "1.18.9"
   },
-  "author": "Dino Tech",
+  "author": "Monkey Tree Technology",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kiddkevin00/dino-tech.git"
+    "url": "https://github.com/kiddkevin00/monkey-tree.git"
   },
   "private": true
 }
