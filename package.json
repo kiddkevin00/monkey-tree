@@ -1,7 +1,7 @@
 {
   "name": "monkey-tree",
   "version": "0.0.1",
-  "description": "A portfolio website for Monkey Tree Technology.",
+  "description": "A portfolio website for Monkey Tree Technology",
   "main": "./app.js",
   "config": {
     "ip": "0.0.0.0",
