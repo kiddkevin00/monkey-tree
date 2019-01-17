@@ -1871,7 +1871,7 @@ our work
 
 .app-single .item .icon i {
   font-size: 26px;
-  background-image: linear-gradient(127deg, #384DFF 0%, #24CDFF 91%);
+  background-image: linear-gradient(to right, #FA4B5C 0%, #FAB75A 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
