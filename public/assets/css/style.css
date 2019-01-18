@@ -209,7 +209,7 @@ global styles
 }
 
 ::-moz-selection {
-  background: #4886FF;
+  background: #FB6A78;
   color: #fff;
 }
 
@@ -1443,7 +1443,7 @@ blog
   right: 0px;
   bottom: 0px;
   width: 60px;
-  background-image: linear-gradient(127deg, #384DFF 0%, #24CDFF 91%);
+  background-image: linear-gradient(to right, #FA4B5C 0%, #FAB75A 100%);
   text-align: center;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -1497,7 +1497,7 @@ blog
   margin-right: 30px;
   height: 30px;
   line-height: 30px;
-  color: #4886FF;
+  color: #FB6A78;
   font-size: 14px;
 }
 
@@ -1552,7 +1552,7 @@ blog
   display: block;
   height: 30px;
   line-height: 30px;
-  color: #4886FF;
+  color: #FB6A78;
 }
 
 .blog-post-thumb .btn-primary-line {
@@ -1641,7 +1641,7 @@ blog
 }
 
 .section-comments ul li .comment-content .comment-by .btn-reply:hover {
-  background: #4886FF;
+  background: #FB6A78;
   color: #fff;
 }
 
@@ -1705,7 +1705,7 @@ blog
 
 .pagination .page-item a {
   font-size: 14px;
-  color: #4886FF;
+  color: #FB6A78;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -1923,7 +1923,7 @@ our work
 .app-single .item .content .text .version ul li:before {
   font-family: FontAwesome;
   content: "\f105";
-  color: #4886FF;
+  color: #FB6A78;
   margin-right: 10px;
 }
 
@@ -2083,7 +2083,7 @@ aside.default-aside .sidebar .search-widget input {
 }
 
 aside.default-aside .sidebar .search-widget input:focus {
-  border: 1px solid #4886FF;
+  border: 1px solid #FB6A78;
   padding-left: 30px;
 }
 
@@ -2095,7 +2095,7 @@ aside.default-aside .sidebar .search-widget button {
   height: 30px;
   width: 30px;
   border: none;
-  background-image: linear-gradient(127deg, #384DFF 0%, #24CDFF 91%);
+  background-image: linear-gradient(to right, #FA4B5C 0%, #FAB75A 100%);
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
@@ -2139,7 +2139,7 @@ aside.default-aside .sidebar .widget-tags a {
 }
 
 aside.default-aside .sidebar .widget-tags a:hover {
-  background: #4886FF;
+  background: #FB6A78;
   color: #fff;
 }
 
@@ -2163,7 +2163,7 @@ contact
 
 .map-wrapper .contact-info {
   height: 365px;
-  background-image: linear-gradient(127deg, #384DFF 0%, #24CDFF 91%);
+  background-image: linear-gradient(to right, #FA4B5C 0%, #FAB75A 100%);
   padding: 40px;
   padding-top: 55px;
   color: #fff;
@@ -2243,7 +2243,7 @@ contact
 }
 
 .contact-form input:focus, .contact-form textarea:focus {
-  border: 1px solid #4886FF;
+  border: 1px solid #FB6A78;
   padding-left: 30px;
 }
 
