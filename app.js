@@ -7,8 +7,12 @@ const app = express();
 app.set('views', path.resolve(__dirname, 'views/'));
 app.set('view engine', 'pug');
 
-const ip = process.env.IP || packageJson.config.ip;
-const port = process.env.PORT || packageJson.config.port;
+app.use((req, res, next) => {
+  if (req.headers['x-forwarded-proto'] && req.headers['x-forwarded-proto'] !== 'https') {
+    return res.redirect(308, `https://${req.headers.host}${req.url}`);
+  }
+  return next();
+});
 
 app.use(express.static(path.resolve(__dirname, 'public/')));
 
@@ -17,6 +21,9 @@ app.route('/*')
   .get((req, res) => {
     return res.sendFile(path.resolve(__dirname, './public/', 'home.html'));
   });
+
+const ip = process.env.IP || packageJson.config.ip;
+const port = process.env.PORT || packageJson.config.port;
 
 const server = app.listen(port, ip, () => {
   console.log('Express server listening on port: %d at IP: %s.',
