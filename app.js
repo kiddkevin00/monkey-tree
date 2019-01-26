@@ -11,6 +11,11 @@ app.use((req, res, next) => {
   if (req.headers['x-forwarded-proto'] && req.headers['x-forwarded-proto'] !== 'https') {
     return res.redirect(308, `https://${req.headers.host}${req.url}`);
   }
+
+  if (req.headers['host'] && req.headers['host'].includes('herokuapp.com')) {
+    return res.redirect(308, `https://monkeytree.io${req.url}`);
+  }
+  
   return next();
 });
 
