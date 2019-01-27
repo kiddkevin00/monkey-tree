@@ -154,22 +154,23 @@
 
           <!-- ***** Contact Form Start ***** -->
           <div class="col-lg-8 col-md-6 col-sm-12">
-            <div class="contact-form">
+            <iframe name="hiddenFrame" width="0" height="0" border="0" style="display: none;"></iframe>
+            <form target="hiddenFrame" action="/subscribe" method="post" class="contact-form">
               <div class="row">
                 <div class="col-lg-6 col-md-12 col-sm-12">
-                  <input type="text" placeholder="Your Name">
+                  <input name="name" type="text" placeholder="Your Name">
                 </div>
                 <div class="col-lg-6 col-md-12 col-sm-12">
-                  <input type="text" placeholder="Email">
+                  <input name="email" type="email" placeholder="Email" required>
                 </div>
                 <div class="col-lg-12">
-                  <textarea placeholder="Describe your project, its goals, and the issues you want to solve..."></textarea>
+                  <textarea name="description" placeholder="Describe your project, its goals, and the issues you want to solve..."></textarea >
                 </div>
                 <div class="col-lg-12">
-                  <button class="btn-primary-line">SEND</button>
+                  <button type="submit" class="btn-primary-line">SEND</button>
                 </div>
               </div>
-            </div>
+            </form>
           </div>
           <!-- ***** Contact Form End ***** -->
         </div>
