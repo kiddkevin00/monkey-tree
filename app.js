@@ -54,7 +54,7 @@ app.post('/subscribe', (req, res) => {
     });
 });
 
-app.use(express.static(path.resolve(__dirname, 'public/')));
+app.use(express.static(path.resolve(__dirname, 'public/'), { extensions: ['html'] }));
 
 //app.set('views', path.resolve(__dirname, 'views/'));
 //app.set('view engine', 'pug');
