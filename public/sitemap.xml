@@ -1,319 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>http://monkeytree.io/./home</loc>
+  <loc>https://monkeytree.io/home</loc>
   <priority>1.0</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./our-work</loc>
+  <loc>https://monkeytree.io/our-work</loc>
   <priority>1.0</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./about-us</loc>
+  <loc>https://monkeytree.io/about-us</loc>
   <priority>0.1</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./services</loc>
+  <loc>https://monkeytree.io/services</loc>
   <priority>0.1</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./blog</loc>
+  <loc>https://monkeytree.io/blog</loc>
   <priority>0.8</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/tel:9172593959</loc>
-  <priority>1.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./contact</loc>
+  <loc>https://monkeytree.io/contact</loc>
   <priority>0.7</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./app-single_circlus-connect</loc>
+  <loc>https://monkeytree.io/app-single_circlus-connect</loc>
   <priority>0.9</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./app-single_arthur-murray-official</loc>
+  <loc>https://monkeytree.io/app-single_arthur-murray-official</loc>
   <priority>0.9</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./app-single_local-detour</loc>
+  <loc>https://monkeytree.io/app-single_local-detour</loc>
   <priority>0.9</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./app-single_get-apollo</loc>
+  <loc>https://monkeytree.io/app-single_get-apollo</loc>
   <priority>0.9</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./app-single_future-plans</loc>
+  <loc>https://monkeytree.io/app-single_future-plans</loc>
   <priority>0.9</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./app-single_goti</loc>
+  <loc>https://monkeytree.io/app-single_goti</loc>
   <priority>0.9</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/blog-single</loc>
+  <loc>https://monkeytree.io/blog-single_what-it-means-when-someone-offer-to-be-tech-cofounder</loc>
   <priority>0.8</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./assets/images/photos/about/client-meeting.jpeg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/photos/about/work-from-anywhere.jpg</loc>
+  <loc>https://monkeytree.io/blog-single_should-i-hire-freelancer-or-cofounder</loc>
   <priority>0.8</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./assets/images/photos/about/team-fist-bump.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/photos/about/team-collaboration.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./blog-single_what-it-means-when-someone-offer-to-be-tech-cofounder</loc>
+  <loc>https://monkeytree.io/blog-single_should-i-have-a-master-degree</loc>
   <priority>0.8</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./blog-single_what-it-means-when-someone-offer-to-be-tech-cofounder#comments</loc>
-  <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./blog-single_should-i-hire-freelancer-or-cofounder</loc>
-  <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./blog-single_should-i-hire-freelancer-or-cofounder#comments</loc>
-  <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./blog-single_should-i-have-a-master-degree</loc>
-  <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./blog-single_should-i-have-a-master-degree#comments</loc>
-  <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/our-work</loc>
+  <loc>https://monkeytree.io/our-work</loc>
   <priority>1.0</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./assets/images/mockup/circlus-connect/deals.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/assets/images/mockup/circlus-connect/deal-detail.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/circlus-connect/payment.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/circlus-connect/signup.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/arthur-murray-official/competition-home.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/arthur-murray-official/competition-detail.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/arthur-murray-official/profile.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/arthur-murray-official/music-player.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/local-detour/events.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/local-detour/event-detail.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/local-detour/editor-comments.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/local-detour/event-photos.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/get-apollo/clubs.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/assets/images/mockup/get-apollo/live-videos.jpeg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/get-apollo/signup.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/get-apollo/profile.jpg</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/future-plans/vault-home.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/future-plans/documents-home.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/future-plans/house-added.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/future-plans/add-vehicle.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/goti/activity.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/goti/radio.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/goti/player.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./assets/images/mockup/goti/call.png</loc>
-  <priority>0.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>http://monkeytree.io/./services-single_continuous-development</loc>
+  <loc>https://monkeytree.io/services-single_continuous-development</loc>
   <priority>0.1</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./services-single_mobile-development</loc>
+  <loc>https://monkeytree.io/services-single_mobile-development</loc>
   <priority>0.1</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./services-single_mobile-platform</loc>
+  <loc>https://monkeytree.io/services-single_mobile-platform</loc>
   <priority>0.1</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
 </url>
 <url>
-  <loc>http://monkeytree.io/./services-single_product-design</loc>
+  <loc>https://monkeytree.io/services-single_product-design</loc>
   <priority>0.1</priority>
   <changefreq>weekly</changefreq>
   <lastmod>2019-05-23</lastmod>
