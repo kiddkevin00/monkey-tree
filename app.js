@@ -48,7 +48,17 @@ app.post('/subscribe', (req, res) => {
     socketTimeoutMS: 10000,
   });
 
-  dbClient.collection('subscriber').saveAsync({ name, email, description })
+  dbClient.collection('subscriber').saveAsync({
+      name,
+      email,
+      description,
+      systemData: {
+        dateCreated: new Date(),
+        createdBy: 'N/A',
+        dateLastModified: null,
+        lastModifiedBy: 'N/A',
+      },
+  })
     .then(subscriber => {
       return res.sendStatus(200);
     });
