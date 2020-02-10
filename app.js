@@ -66,10 +66,7 @@ app.post('/subscribe', (req, res) => {
 
 app.use(express.static(path.resolve(__dirname, 'public/'), { extensions: ['html'] }));
 
-//app.set('views', path.resolve(__dirname, 'views/'));
-//app.set('view engine', 'pug');
-
-// All routes should direct to the index.pug
+// All routes should direct to the index.html
 app.route('/*')
   .get((req, res) => {
     return res.sendFile(path.resolve(__dirname, './public/', 'home.html'));
