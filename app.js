@@ -36,13 +36,12 @@ app.post('/subscribe', (req, res) => {
   let connectionString;
 
   if (process.env.NODE_ENV === 'production') {
-    connectionString = process.env.MONGODB_URI;
+    connectionString = process.env.MONGODB_URL;
   } else {
     connectionString = 'mongodb://127.0.0.1:27017/MonkeyTreeTech';
   }
 
   const dbClient = mongojs(connectionString, [], {
-    autoReconnect: true,
     poolSize: 10,
     connectTimeoutMS: 10000,
     socketTimeoutMS: 10000,
