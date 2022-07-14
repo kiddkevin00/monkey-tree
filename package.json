@@ -12,8 +12,8 @@
     "dev": "nodemon app.js"
   },
   "engines": {
-    "node": "10.16.0",
-    "npm": ">=6.9.0"
+    "node": "14.17.3",
+    "npm": "6.14.13"
   },
   "dependencies": {
     "bluebird": "3.5.3",
