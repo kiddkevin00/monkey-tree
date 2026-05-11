@@ -1,15 +1,22 @@
 const packageJson = require('./package.json');
 const bodyParser = require('body-parser');
-const mongojs = require('mongojs');
 const Promise = require('bluebird');
 const express = require('express');
 const path = require('path');
 
-Promise.promisifyAll([
-  require('mongojs/lib/collection'), // eslint-disable-line global-require
-  require('mongojs/lib/database'), // eslint-disable-line global-require
-  require('mongojs/lib/cursor'), // eslint-disable-line global-require
-]);
+const enableMongoDb = process.env.ENABLE_MONGODB === 'true';
+
+let mongojs;
+
+if (enableMongoDb) {
+  mongojs = require('mongojs'); // eslint-disable-line global-require
+
+  Promise.promisifyAll([
+    require('mongojs/lib/collection'), // eslint-disable-line global-require
+    require('mongojs/lib/database'), // eslint-disable-line global-require
+    require('mongojs/lib/cursor'), // eslint-disable-line global-require
+  ]);
+}
 
 const app = express();
 
@@ -32,6 +39,12 @@ app.use((req, res, next) => {
 });
 
 app.post('/subscribe', (req, res) => {
+  if (!enableMongoDb) {
+    return res.status(503).json({
+      error: 'The persistence storage for subscription is disabled. Set the ENABLE_MONGODB env to true and the MONGODB_URL env to enable it.',
+    });
+  }
+
   const { name, email, description } = req.body;
   let connectionString;
 
@@ -39,6 +52,12 @@ app.post('/subscribe', (req, res) => {
     connectionString = process.env.MONGODB_URL;
   } else {
     connectionString = 'mongodb://127.0.0.1:27017/MonkeyTreeTech';
+  }
+
+  if (!connectionString) {
+    return res.status(500).json({
+      error: 'The MONGODB_URL env is required when the ENABLE_MONGODB env is true in production.',
+    });
   }
 
   const dbClient = mongojs(connectionString, [], {

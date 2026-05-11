@@ -4,6 +4,24 @@
 
 	// Page Ready
 
+	// Disable server-backed subscribe forms on static hosts like GitHub Pages.
+	if (window.MONKEY_TREE_DISABLE_SUBSCRIBE === true && $('.contact-form').length) {
+		$('.contact-form').each(function() {
+			var $form = $(this);
+			var $button = $form.find('button[type="submit"]');
+			var action = $form.attr('action');
+
+			if (action === '/subscribe' || action === 'subscribe') {
+				$form.on('submit', function(event) {
+					event.preventDefault();
+					window.location.href = 'mailto:monkeytree2019@gmail.com?subject=Project%20planning%20session';
+				});
+
+				$button.text('EMAIL US');
+			}
+		});
+	}
+
 	// Welcome Area background image
 	if($('.welcome-area').length){
 		$('.welcome-area .welcome-bg').css("background-image", "url(" + $('.welcome-area .welcome-bg').data('bg') + ")");
