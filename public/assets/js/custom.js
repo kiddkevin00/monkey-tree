@@ -13,8 +13,17 @@
 
 			if (action === '/subscribe' || action === 'subscribe') {
 				$form.on('submit', function(event) {
+					var subject = 'Project planning session';
+					var body = [
+						'Name: ' + ($form.find('[name="name"]').val() || ''),
+						'Email: ' + ($form.find('[name="email"]').val() || ''),
+						'',
+						'Message:',
+						$form.find('[name="description"]').val() || ''
+					].join('\n');
+
 					event.preventDefault();
-					window.location.href = 'mailto:monkeytree2019@gmail.com?subject=Project%20planning%20session';
+					window.location.href = 'mailto:monkeytree2019@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
 				});
 
 				$button.text('EMAIL US');
