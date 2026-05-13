@@ -1,129 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-  <loc>https://monkeytree.io/home</loc>
-  <priority>1.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/our-work</loc>
-  <priority>1.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/about-us</loc>
-  <priority>0.1</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/services</loc>
-  <priority>0.1</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/blog</loc>
-  <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/contact</loc>
-  <priority>0.7</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/app-single_circlus-connect</loc>
-  <priority>0.9</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/app-single_arthur-murray-official</loc>
-  <priority>0.9</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/app-single_local-detour</loc>
-  <priority>0.9</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/app-single_get-apollo</loc>
-  <priority>0.9</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/app-single_future-plans</loc>
-  <priority>0.9</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/app-single_goti</loc>
-  <priority>0.9</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/blog-single_what-it-means-when-someone-offer-to-be-tech-cofounder</loc>
-  <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/blog-single_should-i-hire-freelancer-or-cofounder</loc>
-  <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/blog-single_how-to-scope-an-mvp</loc>
-  <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/blog-single_should-i-have-a-master-degree</loc>
-  <priority>0.8</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/our-work</loc>
-  <priority>1.0</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/services-single_continuous-development</loc>
-  <priority>0.1</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/services-single_mobile-development</loc>
-  <priority>0.1</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/services-single_mobile-platform</loc>
-  <priority>0.1</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
-<url>
-  <loc>https://monkeytree.io/services-single_product-design</loc>
-  <priority>0.1</priority>
-  <changefreq>weekly</changefreq>
-  <lastmod>2019-05-23</lastmod>
-</url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/services.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/contact.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/our-work.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/about-us.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/blog.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/services-single_product-design.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/services-single_mobile-development.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/services-single_mobile-platform.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/services-single_continuous-development.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/app-single_circlus-connect.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/app-single_get-apollo.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/app-single_arthur-murray-official.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/app-single_future-plans.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/app-single_goti.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/app-single_local-detour.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/app-single_pacesetter.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/app-single_pinto.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/app-single_wonda.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/blog-single_how-to-scope-an-mvp.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/blog-single_should-i-hire-freelancer-or-cofounder.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/blog-single_what-it-means-when-someone-offer-to-be-tech-cofounder.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.55</priority>
+  </url>
+  <url>
+    <loc>https://kiddkevin00.github.io/monkey-tree/blog-single_should-i-have-a-master-degree.html</loc>
+    <lastmod>2026-05-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.45</priority>
+  </url>
 </urlset>
